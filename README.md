@@ -21,7 +21,7 @@ A Python-based Telegram chat analytics tool built with Telethon.
 
 1. Clone the repository:
 
-   `git clone https://github.com/swify.xv/Motyga_OSINT_tool.git`
+   `git clone https://github.com/swifyXv1/Motyga_OSINT_tool.git`
 
 2. Install dependencies:
 
